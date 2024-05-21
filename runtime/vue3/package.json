@@ -25,7 +25,7 @@
     "@tmagic/schema": "1.4.5",
     "@tmagic/stage": "1.4.5",
     "@tmagic/utils": "1.4.5",
-    "axios": "^0.25.0",
+    "axios": "^1.7.1",
     "vue": "^3.4.27"
   },
   "devDependencies": {
