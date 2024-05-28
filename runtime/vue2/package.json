@@ -26,13 +26,13 @@
     "@tmagic/schema": "1.4.6",
     "@tmagic/utils": "1.4.6",
     "@tmagic/vue-runtime-help": "^0.0.2",
-    "axios": "^0.25.0",
+    "axios": "^1.7.2",
     "terser": "^5.31.0",
     "vue": "^2.7.4"
   },
   "devDependencies": {
     "@types/events": "^3.0.0",
-    "axios": "^0.27.2",
+    "axios": "^1.7.2",
     "rollup": "^4.17.2",
     "rollup-plugin-external-globals": "^0.10.0",
     "sass": "^1.77.0",
